@@ -1,0 +1,26 @@
+djoyner3@gatech.edu
+
+Xie, Tianshi  -  Zlatopolsky, Elena	Omar Aguirre	omaraguirre@gatech.edu
+
+Report (50 points): -50
+----------------------
+Is the report neat and well organized? (-5 points if not)  -3  I could not follow organizational logic of your report
+Is the experimental methodology well described (up to -5 points if not) -5 You did not explain your methodology.
+
+ 
+Overfitting / leaf_size question:
+Is one or more charts provided to support the argument? (up to -5 points if not) -5 Bag learner is not allowed for the first experiment
+Does the student state where the region of overfitting occurs (or state that there is no overfitting)? (-5 points if not) -5  Region is not clearly marked, please watch the lectures for an illustration of  how to do this.
+Are the starting point and direction of overfitting identified supported by the data (or if the student states that there is no overfitting, is that supported by the data)? (-5 points if not) -5 The starting point and direction are not properly iendtified, please watch the lectures for an illustration of how to do this.
+
+Does bagging reduce or eliminate overfitting?:
+Does the student state where the region of overfitting occurs (or state that there is no overfitting)? (-5 points if not) -5    Region is not clearly marked, please watch the lectures for an illustration of  how to do this.
+Are the starting point and direction of overfitting identified supported by the data (or if the student states that there is no overfitting, is that supported by the data)? (-5 points if not) -5 he starting point and direction are not properly iendtified, please watch the lectures for an illustration of how to do this.
+
+Comparison of DT and RT learning
+Is each quantitative experiment explained well enough that someone else could reproduce it (up to -5 points if not) -5 The methodology is hardly explained at all
+Are there at least two new quantitative properties that are compared (do not use correlation)? (-5 points if only one, -10 if none) -5 I could only identify time as a property.
+Is each conclusion regarding each comparison supported well with charts? (up to -10 points if not) -5 Conclusions are very weak if any.
+
+Does the student's response indicate a lack of understanding of overfitting? (up to -10 points) -10  Please watch the lectures for a simple and acceptable definition that can be perfectly illustrated with the 
+data you are given for these experiments
